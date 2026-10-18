@@ -1,0 +1,4 @@
+# 把本插件插进 profile。不改变任何现有插件的配置。
+- insert:
+    - id: dsh-usage-breakdown
+      name: dsh-usage-breakdown
